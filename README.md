@@ -1,2 +1,2 @@
-# gcbot
-Bot officiel du serveur Discord de GeekCorner 
+# Bienvenue
+Choisissez la version que vous voulez dans la liste des branches. 
